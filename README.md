@@ -73,5 +73,5 @@ Cyberattacks and digital fraud continue to increase, posing serious risks to bus
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/cybersecurity-fraud-detection.git
+   [git clone https://github.com/YourUsername/cybersecurity-fraud-detection.git](https://github.com/numoenochtetteh/cybersecurity-fraud-detection/blob/main/README.md)
 
